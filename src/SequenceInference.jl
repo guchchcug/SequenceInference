@@ -1,6 +1,6 @@
 module SequenceInference
 
 # Write your package code here.
-greet()="hello world"
+greet()=print("hello world")
 
 end
